@@ -14,9 +14,5 @@ class TESTMULTIUE5_API UGI_RaceManager : public UGameInstance
 {
 	GENERATED_BODY()
 	
-	void Init() override;
 
-public:
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
-		int test;
 };
