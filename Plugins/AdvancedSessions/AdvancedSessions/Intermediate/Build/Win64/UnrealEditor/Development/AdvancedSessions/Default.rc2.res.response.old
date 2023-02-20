@@ -65,5 +65,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="SoapBox Tournament"
 /DPROJECT_PRODUCT_IDENTIFIER=TestMultiUE5
-/fo "D:\1-COURS\3-Game Art 3eme Année\PFE\Projet_UNREAL\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/fo "D:\1-COURS\3-Game_Art_3eme_Annee\PFE\Projet_UNREAL\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
