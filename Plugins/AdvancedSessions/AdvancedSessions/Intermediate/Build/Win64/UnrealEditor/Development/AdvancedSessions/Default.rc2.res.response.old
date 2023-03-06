@@ -64,6 +64,6 @@
 /DPROJECT_COMPANY_NAME="SoapBox Corp"
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="SoapBox Tournament"
-/DPROJECT_PRODUCT_IDENTIFIER=TestMultiUE5
+/DPROJECT_PRODUCT_IDENTIFIER=SoapBoxTournament
 /fo "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
