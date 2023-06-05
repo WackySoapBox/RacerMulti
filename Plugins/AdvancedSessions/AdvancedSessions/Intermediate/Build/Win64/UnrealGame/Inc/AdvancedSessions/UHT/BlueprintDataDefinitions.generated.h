@@ -14,54 +14,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ADVANCEDSESSIONS_BlueprintDataDefinitions_generated_h
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_48_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_48_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPUserOnlineAccount_Statics; \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics; \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionsSearchSetting>();
+template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPUserOnlineAccount>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_150_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_150_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPUniqueNetId_Statics; \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics; \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionPropertyKeyPair>();
+template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPUniqueNetId>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPOnlineUser_Statics; \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FBPFriendInfo_Statics; \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendInfo>();
+template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPOnlineUser>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FBPFriendPresenceInfo_Statics; \
-	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
-
-
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendPresenceInfo>();
-
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPOnlineRecentPlayer_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FBPOnlineUser Super;
@@ -69,39 +43,28 @@ template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendPres
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPOnlineRecentPlayer>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPFriendPresenceInfo_Statics; \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FBPOnlineUser_Statics; \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPOnlineUser>();
+template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendPresenceInfo>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPFriendInfo_Statics; \
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_150_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FBPUniqueNetId_Statics; \
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPUniqueNetId>();
+template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendInfo>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionPropertyKeyPair>();
 
-#define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
+#define FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
@@ -109,29 +72,15 @@ template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionPrope
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionsSearchSetting>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h
-========
-#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_48_GENERATED_BODY \
-	friend struct Z_Construct_UScriptStruct_FBPUserOnlineAccount_Statics; \
-	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
+#define CURRENT_FILE_ID FID_Users_jules_OneDrive_Documents_Cours_E_artsup_ProjetRacerMulti_RacerMulti_5_1_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h
 
 
-template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPUserOnlineAccount>();
+#define FOREACH_ENUM_EBPUSERPRIVILEGES(op) \
+	op(EBPUserPrivileges::CanPlay) \
+	op(EBPUserPrivileges::CanPlayOnline) \
+	op(EBPUserPrivileges::CanCommunicateOnline) \
+	op(EBPUserPrivileges::CanUseUserGeneratedContent) 
 
-#undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
-
-
-#define FOREACH_ENUM_EONLINECOMPARISONOPREDUX(op) \
-	op(EOnlineComparisonOpRedux::Equals) \
-	op(EOnlineComparisonOpRedux::NotEquals) \
-	op(EOnlineComparisonOpRedux::GreaterThan) \
-	op(EOnlineComparisonOpRedux::GreaterThanEquals) \
-	op(EOnlineComparisonOpRedux::LessThan) \
-	op(EOnlineComparisonOpRedux::LessThanEquals) 
-
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
 enum class EBPUserPrivileges : uint8;
 template<> struct TIsUEnumClass<EBPUserPrivileges> { enum { Value = true }; };
 template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPUserPrivileges>();
@@ -191,10 +140,6 @@ template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPServerPresenceSearchType>()
 enum class EBPOnlinePresenceState : uint8;
 template<> struct TIsUEnumClass<EBPOnlinePresenceState> { enum { Value = true }; };
 template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPOnlinePresenceState>();
-========
-enum class EOnlineComparisonOpRedux : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EOnlineComparisonOpRedux>();
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 
 #define FOREACH_ENUM_EBPONLINESESSIONSTATE(op) \
 	op(EBPOnlineSessionState::NoSession) \
@@ -210,69 +155,16 @@ enum class EBPOnlineSessionState : uint8;
 template<> struct TIsUEnumClass<EBPOnlineSessionState> { enum { Value = true }; };
 template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPOnlineSessionState>();
 
-#define FOREACH_ENUM_EBPONLINEPRESENCESTATE(op) \
-	op(EBPOnlinePresenceState::Online) \
-	op(EBPOnlinePresenceState::Offline) \
-	op(EBPOnlinePresenceState::Away) \
-	op(EBPOnlinePresenceState::ExtendedAway) \
-	op(EBPOnlinePresenceState::DoNotDisturb) \
-	op(EBPOnlinePresenceState::Chat) 
+#define FOREACH_ENUM_EONLINECOMPARISONOPREDUX(op) \
+	op(EOnlineComparisonOpRedux::Equals) \
+	op(EOnlineComparisonOpRedux::NotEquals) \
+	op(EOnlineComparisonOpRedux::GreaterThan) \
+	op(EOnlineComparisonOpRedux::GreaterThanEquals) \
+	op(EOnlineComparisonOpRedux::LessThan) \
+	op(EOnlineComparisonOpRedux::LessThanEquals) 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h
 enum class EOnlineComparisonOpRedux : uint8;
 template<> struct TIsUEnumClass<EOnlineComparisonOpRedux> { enum { Value = true }; };
 template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EOnlineComparisonOpRedux>();
-========
-enum class EBPOnlinePresenceState : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPOnlinePresenceState>();
-
-#define FOREACH_ENUM_EBPSERVERPRESENCESEARCHTYPE(op) \
-	op(EBPServerPresenceSearchType::AllServers) \
-	op(EBPServerPresenceSearchType::ClientServersOnly) \
-	op(EBPServerPresenceSearchType::DedicatedServersOnly) 
-
-enum class EBPServerPresenceSearchType : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPServerPresenceSearchType>();
-
-#define FOREACH_ENUM_EBLUEPRINTASYNCRESULTSWITCH(op) \
-	op(EBlueprintAsyncResultSwitch::OnSuccess) \
-	op(EBlueprintAsyncResultSwitch::AsyncLoading) \
-	op(EBlueprintAsyncResultSwitch::OnFailure) 
-
-enum class EBlueprintAsyncResultSwitch : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBlueprintAsyncResultSwitch>();
-
-#define FOREACH_ENUM_EBLUEPRINTRESULTSWITCH(op) \
-	op(EBlueprintResultSwitch::OnSuccess) \
-	op(EBlueprintResultSwitch::OnFailure) 
-
-enum class EBlueprintResultSwitch : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBlueprintResultSwitch>();
-
-#define FOREACH_ENUM_ESESSIONSETTINGSEARCHRESULT(op) \
-	op(ESessionSettingSearchResult::Found) \
-	op(ESessionSettingSearchResult::NotFound) \
-	op(ESessionSettingSearchResult::WrongType) 
-
-enum class ESessionSettingSearchResult : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<ESessionSettingSearchResult>();
-
-#define FOREACH_ENUM_EBPLOGINSTATUS(op) \
-	op(EBPLoginStatus::NotLoggedIn) \
-	op(EBPLoginStatus::UsingLocalProfile) \
-	op(EBPLoginStatus::LoggedIn) 
-
-enum class EBPLoginStatus : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPLoginStatus>();
-
-#define FOREACH_ENUM_EBPUSERPRIVILEGES(op) \
-	op(EBPUserPrivileges::CanPlay) \
-	op(EBPUserPrivileges::CanPlayOnline) \
-	op(EBPUserPrivileges::CanCommunicateOnline) \
-	op(EBPUserPrivileges::CanUseUserGeneratedContent) 
-
-enum class EBPUserPrivileges : uint8;
-template<> ADVANCEDSESSIONS_API UEnum* StaticEnum<EBPUserPrivileges>();
->>>>>>>> e75b61dba8be9855417be6cc21e527db17dcfea2:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
