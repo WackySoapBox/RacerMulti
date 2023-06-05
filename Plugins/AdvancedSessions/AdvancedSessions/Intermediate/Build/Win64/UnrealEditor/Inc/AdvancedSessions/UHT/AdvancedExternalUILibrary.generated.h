@@ -17,8 +17,13 @@ struct FBPUniqueNetId;
 #endif
 #define ADVANCEDSESSIONS_AdvancedExternalUILibrary_generated_h
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_SPARSE_DATA
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_SPARSE_DATA
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
  \
 	DECLARE_FUNCTION(execShowAccountUpgradeUI); \
 	DECLARE_FUNCTION(execShowProfileUI); \
@@ -29,7 +34,11 @@ struct FBPUniqueNetId;
 	DECLARE_FUNCTION(execShowFriendsUI);
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
  \
 	DECLARE_FUNCTION(execShowAccountUpgradeUI); \
 	DECLARE_FUNCTION(execShowProfileUI); \
@@ -40,8 +49,12 @@ struct FBPUniqueNetId;
 	DECLARE_FUNCTION(execShowFriendsUI);
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ACCESSORS
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 private: \
 	static void StaticRegisterNativesUAdvancedExternalUILibrary(); \
 	friend struct Z_Construct_UClass_UAdvancedExternalUILibrary_Statics; \
@@ -50,7 +63,11 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedExternalUILibrary)
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 private: \
 	static void StaticRegisterNativesUAdvancedExternalUILibrary(); \
 	friend struct Z_Construct_UClass_UAdvancedExternalUILibrary_Statics; \
@@ -59,7 +76,11 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedExternalUILibrary)
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_STANDARD_CONSTRUCTORS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_STANDARD_CONSTRUCTORS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedExternalUILibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAdvancedExternalUILibrary) \
@@ -73,7 +94,11 @@ public: \
 	NO_API virtual ~UAdvancedExternalUILibrary();
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedExternalUILibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -87,6 +112,7 @@ public: \
 	NO_API virtual ~UAdvancedExternalUILibrary();
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_26_PROLOG
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -96,10 +122,23 @@ public: \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ACCESSORS \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_STANDARD_CONSTRUCTORS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_PRIVATE_PROPERTY_OFFSET
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_26_PROLOG
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_PRIVATE_PROPERTY_OFFSET \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_SPARSE_DATA \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_STANDARD_CONSTRUCTORS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
@@ -108,6 +147,16 @@ public: \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ACCESSORS \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
 	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+=======
+#define VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_PRIVATE_PROPERTY_OFFSET \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_SPARSE_DATA \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_INCLASS_NO_PURE_DECLS \
+	VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h_29_ENHANCED_CONSTRUCTORS \
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -115,7 +164,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ADVANCEDSESSIONS_API UClass* StaticClass<class UAdvancedExternalUILibrary>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h
 #define CURRENT_FILE_ID FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h
+=======
+#define CURRENT_FILE_ID VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedExternalUILibrary_h
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

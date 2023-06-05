@@ -184,6 +184,7 @@ void EmptyLinkFunctionForGeneratedCodeLoginUserCallbackProxy() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ULoginUserCallbackProxy);
 	ULoginUserCallbackProxy::~ULoginUserCallbackProxy() {}
+<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.gen.cpp
 	struct Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
@@ -193,6 +194,17 @@ void EmptyLinkFunctionForGeneratedCodeLoginUserCallbackProxy() {}
 	};
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_3450321987(TEXT("/Script/AdvancedSessions"),
 		Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics::ClassInfo),
+=======
+	struct Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_ULoginUserCallbackProxy, ULoginUserCallbackProxy::StaticClass, TEXT("ULoginUserCallbackProxy"), &Z_Registration_Info_UClass_ULoginUserCallbackProxy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ULoginUserCallbackProxy), 126297153U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_3450321987(TEXT("/Script/AdvancedSessions"),
+		Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_LoginUserCallbackProxy_h_Statics::ClassInfo),
+>>>>>>> 0ab4d15f94fa6af360f1642608078f66927134c1:Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.gen.cpp
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
