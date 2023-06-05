@@ -22,24 +22,15 @@ struct FBPUniqueNetId;
 #endif
 #define ADVANCEDSTEAMSESSIONS_AdvancedSteamFriendsLibrary_generated_h
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_289_GENERATED_BODY \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_289_GENERATED_BODY \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 	friend struct Z_Construct_UScriptStruct_FBPSteamGroupInfo_Statics; \
 	ADVANCEDSTEAMSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSTEAMSESSIONS_API UScriptStruct* StaticStruct<struct FBPSteamGroupInfo>();
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_SPARSE_DATA
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_SPARSE_DATA
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
  \
 	DECLARE_FUNCTION(execIsSteamInBigPictureMode); \
 	DECLARE_FUNCTION(execFilterText); \
@@ -56,11 +47,7 @@ template<> ADVANCEDSTEAMSESSIONS_API UScriptStruct* StaticStruct<struct FBPSteam
 	DECLARE_FUNCTION(execGetSteamFriendAvatar);
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS_NO_PURE_DECLS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS_NO_PURE_DECLS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
  \
 	DECLARE_FUNCTION(execIsSteamInBigPictureMode); \
 	DECLARE_FUNCTION(execFilterText); \
@@ -77,13 +64,8 @@ template<> ADVANCEDSTEAMSESSIONS_API UScriptStruct* StaticStruct<struct FBPSteam
 	DECLARE_FUNCTION(execGetSteamFriendAvatar);
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS_NO_PURE_DECLS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS_NO_PURE_DECLS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 private: \
 	static void StaticRegisterNativesUAdvancedSteamFriendsLibrary(); \
 	friend struct Z_Construct_UClass_UAdvancedSteamFriendsLibrary_Statics; \
@@ -92,11 +74,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedSteamFriendsLibrary)
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 private: \
 	static void StaticRegisterNativesUAdvancedSteamFriendsLibrary(); \
 	friend struct Z_Construct_UClass_UAdvancedSteamFriendsLibrary_Statics; \
@@ -105,11 +83,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedSteamFriendsLibrary)
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_STANDARD_CONSTRUCTORS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_STANDARD_CONSTRUCTORS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedSteamFriendsLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAdvancedSteamFriendsLibrary) \
@@ -123,11 +97,7 @@ public: \
 	NO_API virtual ~UAdvancedSteamFriendsLibrary();
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ENHANCED_CONSTRUCTORS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ENHANCED_CONSTRUCTORS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedSteamFriendsLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -141,7 +111,6 @@ public: \
 	NO_API virtual ~UAdvancedSteamFriendsLibrary();
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_321_PROLOG
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -151,22 +120,10 @@ public: \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_STANDARD_CONSTRUCTORS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_321_PROLOG
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_GENERATED_BODY_LEGACY \
-PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-public: \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_SPARSE_DATA \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_STANDARD_CONSTRUCTORS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
@@ -175,16 +132,6 @@ public: \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS_NO_PURE_DECLS \
 	FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ENHANCED_CONSTRUCTORS \
-========
-#define FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_GENERATED_BODY \
-PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-public: \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_SPARSE_DATA \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ACCESSORS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_INCLASS_NO_PURE_DECLS \
-	FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h_324_ENHANCED_CONSTRUCTORS \
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -192,11 +139,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ADVANCEDSTEAMSESSIONS_API UClass* StaticClass<class UAdvancedSteamFriendsLibrary>();
 
 #undef CURRENT_FILE_ID
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 #define CURRENT_FILE_ID FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h
-========
-#define CURRENT_FILE_ID FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSteamSessions_Source_AdvancedSteamSessions_Classes_AdvancedSteamFriendsLibrary_h
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h
 
 
 #define FOREACH_ENUM_STEAMAVATARSIZE(op) \

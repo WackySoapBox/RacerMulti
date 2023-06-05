@@ -941,7 +941,6 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedVoiceLibrary() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UAdvancedVoiceLibrary);
 	UAdvancedVoiceLibrary::~UAdvancedVoiceLibrary() {}
-<<<<<<<< HEAD:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/AdvancedVoiceLibrary.gen.cpp
 	struct Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
@@ -951,17 +950,6 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedVoiceLibrary() {}
 	};
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_1700278046(TEXT("/Script/AdvancedSessions"),
 		Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_VRExpPluginExp_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics::ClassInfo),
-========
-	struct Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics
-	{
-		static const FClassRegisterCompiledInInfo ClassInfo[];
-	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UAdvancedVoiceLibrary, UAdvancedVoiceLibrary::StaticClass, TEXT("UAdvancedVoiceLibrary"), &Z_Registration_Info_UClass_UAdvancedVoiceLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAdvancedVoiceLibrary), 3237138348U) },
-	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_1700278046(TEXT("/Script/AdvancedSessions"),
-		Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_RacerMulti_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedVoiceLibrary_h_Statics::ClassInfo),
->>>>>>>> d8cf4a204d48c379a8e7b2a97e5c8d06d64b9cc7:Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedVoiceLibrary.gen.cpp
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
