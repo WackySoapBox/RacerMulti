@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jules\\onedrive\\documents\\cours e-artsup\\projetracermulti\\racermulti 5.1\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jules\\onedrive\\documents\\cours e-artsup\\projetracermulti\\racermulti 5.1\\intermediate\\build\\win64\\testmultiue5editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\jules\\onedrive\\documents\\cours e-artsup\\projetracermulti\\racermulti 5.1\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealeditor\\development\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
