@@ -1,6 +1,6 @@
-"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp"
+"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp"
 /I .
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -280,32 +280,33 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT"
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions\UHT"
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions\UHT"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
 /I ThirdParty\Steamworks\Steamv153\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystemSteam\UHT
 /I ..\Plugins\Online\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Classes
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Public
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp.obj"
-/sourceDependencies "C:\Users\jules\OneDrive\Documents\Cours E-artsup\ProjetRacerMulti\RacerMulti 5.1\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp.dep.json"
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I D:\cour\visualstudio\VC\Tools\MSVC\14.34.31933\INCLUDE
+/external:I D:\cour\include\10.0.22621.0\ucrt
+/external:I D:\cour\include\10.0.22621.0\shared
+/external:I D:\cour\include\10.0.22621.0\um
+/external:I D:\cour\include\10.0.22621.0\winrt
+/FI"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Intermediate\Build\Win64\TestMultiUE5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp.obj"
+/sourceDependencies "D:\Utilisateurs\erwan G\Documents\unreal\RacerMulti\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
